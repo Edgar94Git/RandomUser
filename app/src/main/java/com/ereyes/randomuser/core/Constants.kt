@@ -8,5 +8,7 @@ package com.ereyes.randomuser.core
  ****/
 
 object Constants {
-    const val BASE_URL = "https://randomuser.me/";
+    const val BASE_URL = "https://randomuser.me/"
+    const val SHOW = true
+    const val HIDE = false
 }

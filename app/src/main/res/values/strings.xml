@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RandomUser</string>
+    <string name="content_description_picture">Foto del usuario</string>
+    <string name="text_random_user">Random User</string>
 </resources>
